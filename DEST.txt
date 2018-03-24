@@ -1,0 +1,33 @@
+  <div id="container">
+   <div class="imagebox">
+      <img src="bekel.jpg" height="250px" width="300">
+        <div class="textbox"><h1>BEKEL FORT</h1></div>
+    </div>
+   <div class="imagebox">
+       <img src="KOVALAM.jpg" height="250px" width="300">
+    <div class="textbox"><h1>KOVALAM BEACH</h1></div>
+	</div>
+	<div class="imagebox">
+    <img src="jagayu.jpg" height="250px" width="300">
+	   <div class="textbox"><h1>JADAYU EARTH CENTRE</h1></div>
+	 </div>
+	 <div class="imagebox">
+    <img src="adavi.jpg" height="250px" width="300">
+	   <div class="textbox"><h1>ADAVI TOURISM</h1></div>
+	   </div>
+     <div class="imagebox">
+	   <img src="Illikkal.jpg" height="250px" width="300">
+     <div class="textbox"><h1>ILLIKKAL KALLU</h1></div>
+	 </div>
+	 <div class="imagebox">
+	<img src="iduki.jpg" height="250px" width="300">
+	   <div class="textbox"><h1>IDUKKI DAM</h1></div>
+	   </div>
+	   <div class="imagebox">
+	<img src="athirappalli.jpg" height="250px" width="300">
+	   <div class="textbox"><h1>ATHIRAPPALLI WATERFALLS</h1></div>
+	   </div>
+	   <div class="imagebox">
+	<img src="Kozhikode.jpg" height="250px" width="300">
+	   <div class="textbox"><h1>KOZHIKODE BEACH</h1></div>
+	   </div>
